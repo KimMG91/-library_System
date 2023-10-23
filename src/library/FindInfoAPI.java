@@ -26,9 +26,9 @@ import libraryDB.MemberDAO;
 import libraryDB.MemberDTO;
 
 public class FindInfoAPI extends JFrame {
-	private static final String SERVICE_ID = "ncp:sms:kr:311960526871:library";
-	private static final String ACCESS_KEY = "jaYrdd5vHxwOUx1XJYY4";
-	private static final String SECRET_KEY = "fMoATnrtlUomjvGsy2s3Be9Cg75KAKIbAENR8bfG";
+	private static final String SERVICE_ID = "서버 ID";
+	private static final String ACCESS_KEY = "ACCESS Key";
+	private static final String SECRET_KEY = "SECRET Key";
 
 	private JLabel phoneNumberLabel;
 	private JTextField phoneNumberField;
