@@ -9,7 +9,7 @@ import java.net.URL;
 
 public class MapAPI extends JFrame {
 
-	private static final String API_KEY = "AIzaSyAgY-kaBEtCUxeaAHQL2aLEi5xOjBfAhzw";
+	private static final String API_KEY = "구글 API키 입력란";
 
 	public MapAPI() {
 		setTitle("도서관 위치");
